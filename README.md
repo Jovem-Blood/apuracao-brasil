@@ -63,3 +63,7 @@ pnpm dlx vercel --prod --scope thiagos-projects-5418414d
 ```
 
 Depois de publicar, adicione o domínio nas configurações do projeto e configure o registro DNS exatamente como informado pela Vercel.
+
+## Licença
+
+Distribuído sob a licença [MIT](LICENSE).
